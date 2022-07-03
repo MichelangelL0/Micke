@@ -1,2 +1,2 @@
 # Micke
-sfedu python man
+u can see my decisions easiest tasks by py
